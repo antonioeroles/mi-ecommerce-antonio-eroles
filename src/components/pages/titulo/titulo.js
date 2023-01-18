@@ -1,7 +1,7 @@
 
 const Navegacion = () => {
     return (
-        <div>
+        <div className="App">
             <h1>Vinoteca</h1>
             <h2>"Sierras Chicas"</h2>
             
